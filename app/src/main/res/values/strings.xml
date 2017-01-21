@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="app_name_full">Civil &amp; Voter Registration</string>
+    <string name="action_settings">Definitions</string>
+    <string name="help">About</string>
+</resources>
